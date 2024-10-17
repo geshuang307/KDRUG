@@ -1,7 +1,7 @@
 # KDRUG
 The code will be released here later.
 
-training code:
+### training code:
 1|origion multi-modal/single-modal module: training.py  
 2|distill from origion multi-modal: training_continue_KD1.py       
 3|our proposed privileged information knowledge distillation framework: training_continue_combine.py
@@ -11,7 +11,7 @@ training code:
 7|distill from module 4; KD LOSS + RAD loss: training_continue_KD.py
 8|distill from module 4; only RAD loss: training_continue_KD.py
 
-training model:
+### training model:
 1|models/gat_gcn_transformer_meth_ge_mut.py;
   models/gat_gcn_transformer_meth_ge.py
 2|models/gat_gcn_transformer_meth_ge_mut.py -> models/gat_gcn_transformer_ge_only.py
@@ -22,7 +22,7 @@ training model:
 7|models/gat_gcn_transformer_meth_ge_mut_multiheadattn.py -> models/gat_gcn_transformer_ge_only.py
 8|models/gat_gcn_transformer_meth_ge_mut_multiheadattn.py -> models/gat_gcn_transformer_ge_only.py
 
-loss:
+### loss:
 1| MSE
 2| MSE + KD
 3| MSE
