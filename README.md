@@ -46,6 +46,6 @@ model_continue_combine_pretrain_relu_GDSC.model
 model_continue_combine_pretrain_multiheadattn(ge_others)_relu_GDSC.model
 
 TCGA test:
-
+result/plot_TCGA/compute_GDSC_TCGA_distribution.py
 
 * Thanks to [Thang Chu, et al.] for providing excellent code and documentation. This project was inspired by and includes some code from [GraTransDRP] T. Chu, T. T. Nguyen, B. D. Hai, Q. H. Nguyen and T. Nguyen, "Graph Transformer for Drug Response Prediction," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 20, no. 2, pp. 1065-1072, 1 March-April 2023
