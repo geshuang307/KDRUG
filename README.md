@@ -9,7 +9,7 @@ Here we introduce **A Multi-Modal Genomic Knowledge Distillation Framework for D
 **Note:** The sections on Datasets, Model, and Training below describe the contents of the respective directories. Due to size constraints and permissions, some data and ckpts may not be uploaded. The download url can be found in our paper.
 
 ## Datasets
-Download GDSC origion dataset from https://pan.baidu.com/share/init?surl=Z7xiX4TQyaXKydSceNhp0g (code:KDRU)
+Download GDSC origion dataset from https://drive.google.com/drive/folders/1UlIAMfxCAFDIge2uIJCjl4zdlY5smqi7?usp=sharing
 
     `global_data/`                  - path of origional GDSC/TCGA files  
     `data/processed/xxxxGDSCxx.pt`  - path of processed bulk data, train, val and test
